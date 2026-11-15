@@ -1,3 +1,29 @@
+# supersplat
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+3D Gaussian Splat Editor
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+3D Gaussian Splatting 编辑器。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # SuperSplat Editor
 
 [![Github Release](https://img.shields.io/github/v/release/playcanvas/supersplat)](https://github.com/playcanvas/supersplat/releases)
